@@ -2,6 +2,8 @@
 
 2. Add your first and last name to the first commit. the commit message should read "Add My first Name and Last Name"
 
+Paulo Oliveira
+
 3. send a pull request.
 
 4. go back to your branch add your full name and commit.
